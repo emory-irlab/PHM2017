@@ -8,7 +8,7 @@ The labels are as follows:
 0: non-health
 1: awareness
 2: other-mention
-3:	self-mention
+3: self-mention
 
 More details and information about the labels:
 Did You Really Just Have a Heart Attack? Towards Robust Detection of Personal Health Mentions in Social Media. Payam Karisani, Eugene Agichtein, In Proceedings of WWW 2017.
