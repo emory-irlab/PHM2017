@@ -11,4 +11,4 @@ The labels are as follows:
 3: self-mention
 
 More details and information about the labels:
-Did You Really Just Have a Heart Attack? Towards Robust Detection of Personal Health Mentions in Social Media. Payam Karisani, Eugene Agichtein, In Proceedings of WWW 2017.
+Did You Really Just Have a Heart Attack? Towards Robust Detection of Personal Health Mentions in Social Media. Payam Karisani, Eugene Agichtein, In Proceedings of WWW 2018.
