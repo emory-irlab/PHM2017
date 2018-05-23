@@ -6,7 +6,7 @@ This webpage contains the dataset that is described in article:<br />
 Citation:
 @inproceedings{KarisaniAg18,
   author    = {Payam Karisani and Eugene Agichtein},
-  title     = {Did You Really Just Have a Heart Attack?: Towards Robust Detection of 
+  title     = {Did You Really Just Have a Heart Attack? Towards Robust Detection of 
   Personal Health Mentions in Social Media},
   booktitle = {Proceedings of the 2018 World Wide Web Conference on World Wide Web, 
   {WWW} 2018, Lyon, France, April 23-27, 2018},
